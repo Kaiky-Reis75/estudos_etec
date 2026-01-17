@@ -4,11 +4,11 @@ Repositório destinado à organização de atividades e exercícios desenvolvido
 
 As atividades foram realizadas ao longo do curso e estão sendo organizadas e publicadas posteriormente no GitHub com o objetivo de estudo, revisão de conceitos e portfólio.
 
----
 
 ## Estrutura do repositório
 
 Os conteúdos estão organizados por linguagem e, dentro de cada uma, por temas estudados.
+
 
 ## Objetivo do repositório
 
@@ -17,7 +17,6 @@ Os conteúdos estão organizados por linguagem e, dentro de cada uma, por temas 
 - Facilitar revisões futuras
 - Servir como material de estudo e portfólio técnico
 
----
 
 ## Tecnologias abordadas
 
@@ -25,9 +24,8 @@ Os conteúdos estão organizados por linguagem e, dentro de cada uma, por temas 
   <!-- - **PHP** -->
   <!-- - **Flutter / Dart** -->
 
-Outras tecnologias podem ser adicionadas conforme a evolução dos estudos.
+Outras tecnologias serão adicionadas conforme a forem organizadas.
 
----
 
 ## Observações
 
