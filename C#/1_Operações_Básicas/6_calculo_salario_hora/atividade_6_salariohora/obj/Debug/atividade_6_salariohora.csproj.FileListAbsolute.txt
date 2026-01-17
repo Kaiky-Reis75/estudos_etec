@@ -1,0 +1,6 @@
+C:\Users\Lab4\source\repos\atividade_6_salariohora\atividade_6_salariohora\bin\Debug\atividade_6_salariohora.exe.config
+C:\Users\Lab4\source\repos\atividade_6_salariohora\atividade_6_salariohora\bin\Debug\atividade_6_salariohora.exe
+C:\Users\Lab4\source\repos\atividade_6_salariohora\atividade_6_salariohora\bin\Debug\atividade_6_salariohora.pdb
+C:\Users\Lab4\source\repos\atividade_6_salariohora\atividade_6_salariohora\obj\Debug\atividade_6_salariohora.csproj.CoreCompileInputs.cache
+C:\Users\Lab4\source\repos\atividade_6_salariohora\atividade_6_salariohora\obj\Debug\atividade_6_salariohora.exe
+C:\Users\Lab4\source\repos\atividade_6_salariohora\atividade_6_salariohora\obj\Debug\atividade_6_salariohora.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lab4\source\repos\atividade_4_fahrenheit\atividade_4_fahrenheit\bin\Debug\atividade_4_fahrenheit.exe.config
+C:\Users\Lab4\source\repos\atividade_4_fahrenheit\atividade_4_fahrenheit\bin\Debug\atividade_4_fahrenheit.exe
+C:\Users\Lab4\source\repos\atividade_4_fahrenheit\atividade_4_fahrenheit\bin\Debug\atividade_4_fahrenheit.pdb
+C:\Users\Lab4\source\repos\atividade_4_fahrenheit\atividade_4_fahrenheit\obj\Debug\atividade_4_fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Lab4\source\repos\atividade_4_fahrenheit\atividade_4_fahrenheit\obj\Debug\atividade_4_fahrenheit.exe
+C:\Users\Lab4\source\repos\atividade_4_fahrenheit\atividade_4_fahrenheit\obj\Debug\atividade_4_fahrenheit.pdb

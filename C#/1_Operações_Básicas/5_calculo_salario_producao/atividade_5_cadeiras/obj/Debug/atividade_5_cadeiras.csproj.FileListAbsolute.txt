@@ -1,0 +1,7 @@
+C:\Users\Lab4\source\repos\atividade_5_cadeiras\atividade_5_cadeiras\obj\Debug\atividade_5_cadeiras.csprojAssemblyReference.cache
+C:\Users\Lab4\source\repos\atividade_5_cadeiras\atividade_5_cadeiras\obj\Debug\atividade_5_cadeiras.csproj.CoreCompileInputs.cache
+C:\Users\Lab4\source\repos\atividade_5_cadeiras\atividade_5_cadeiras\bin\Debug\atividade_5_cadeiras.exe.config
+C:\Users\Lab4\source\repos\atividade_5_cadeiras\atividade_5_cadeiras\bin\Debug\atividade_5_cadeiras.exe
+C:\Users\Lab4\source\repos\atividade_5_cadeiras\atividade_5_cadeiras\bin\Debug\atividade_5_cadeiras.pdb
+C:\Users\Lab4\source\repos\atividade_5_cadeiras\atividade_5_cadeiras\obj\Debug\atividade_5_cadeiras.exe
+C:\Users\Lab4\source\repos\atividade_5_cadeiras\atividade_5_cadeiras\obj\Debug\atividade_5_cadeiras.pdb

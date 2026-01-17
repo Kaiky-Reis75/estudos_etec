@@ -1,0 +1,7 @@
+C:\Users\Lab4\source\repos\atividade_1_media\atividade_1_media\bin\Debug\atividade_1_media.exe.config
+C:\Users\Lab4\source\repos\atividade_1_media\atividade_1_media\bin\Debug\atividade_1_media.exe
+C:\Users\Lab4\source\repos\atividade_1_media\atividade_1_media\bin\Debug\atividade_1_media.pdb
+C:\Users\Lab4\source\repos\atividade_1_media\atividade_1_media\obj\Debug\atividade_1_media.csprojAssemblyReference.cache
+C:\Users\Lab4\source\repos\atividade_1_media\atividade_1_media\obj\Debug\atividade_1_media.csproj.CoreCompileInputs.cache
+C:\Users\Lab4\source\repos\atividade_1_media\atividade_1_media\obj\Debug\atividade_1_media.exe
+C:\Users\Lab4\source\repos\atividade_1_media\atividade_1_media\obj\Debug\atividade_1_media.pdb

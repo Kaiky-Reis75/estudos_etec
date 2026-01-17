@@ -1,0 +1,6 @@
+C:\Users\Lab4\source\repos\atividade_3_salario\atividade_3_salario\obj\Debug\atividade_3_salario.csproj.CoreCompileInputs.cache
+C:\Users\Lab4\source\repos\atividade_3_salario\atividade_3_salario\bin\Debug\atividade_3_salario.exe.config
+C:\Users\Lab4\source\repos\atividade_3_salario\atividade_3_salario\bin\Debug\atividade_3_salario.exe
+C:\Users\Lab4\source\repos\atividade_3_salario\atividade_3_salario\bin\Debug\atividade_3_salario.pdb
+C:\Users\Lab4\source\repos\atividade_3_salario\atividade_3_salario\obj\Debug\atividade_3_salario.exe
+C:\Users\Lab4\source\repos\atividade_3_salario\atividade_3_salario\obj\Debug\atividade_3_salario.pdb
