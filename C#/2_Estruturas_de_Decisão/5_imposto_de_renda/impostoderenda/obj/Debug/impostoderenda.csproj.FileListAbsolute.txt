@@ -1,0 +1,7 @@
+C:\Users\alang\source\repos\impostoderenda\impostoderenda\obj\Debug\impostoderenda.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\impostoderenda\impostoderenda\obj\Debug\impostoderenda.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\impostoderenda\impostoderenda\bin\Debug\impostoderenda.exe.config
+C:\Users\alang\source\repos\impostoderenda\impostoderenda\bin\Debug\impostoderenda.exe
+C:\Users\alang\source\repos\impostoderenda\impostoderenda\bin\Debug\impostoderenda.pdb
+C:\Users\alang\source\repos\impostoderenda\impostoderenda\obj\Debug\impostoderenda.exe
+C:\Users\alang\source\repos\impostoderenda\impostoderenda\obj\Debug\impostoderenda.pdb

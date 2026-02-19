@@ -1,0 +1,15 @@
+C:\Users\Lab4\source\repos\maior_menor\maior_menor\obj\Debug\maior_menor.csprojAssemblyReference.cache
+C:\Users\Lab4\source\repos\maior_menor\maior_menor\obj\Debug\maior_menor.csproj.CoreCompileInputs.cache
+C:\Users\Lab4\source\repos\maior_menor\maior_menor\bin\Debug\maior_menor.exe.config
+C:\Users\Lab4\source\repos\maior_menor\maior_menor\bin\Debug\maior_menor.exe
+C:\Users\Lab4\source\repos\maior_menor\maior_menor\bin\Debug\maior_menor.pdb
+C:\Users\Lab4\source\repos\maior_menor\maior_menor\obj\Debug\maior_menor.exe
+C:\Users\Lab4\source\repos\maior_menor\maior_menor\obj\Debug\maior_menor.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\1_maior_menor\maior_menor\bin\Debug\maior_menor.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\1_maior_menor\maior_menor\bin\Debug\maior_menor.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\1_maior_menor\maior_menor\bin\Debug\maior_menor.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\1_maior_menor\maior_menor\obj\Debug\maior_menor.csproj.AssemblyReference.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\1_maior_menor\maior_menor\obj\Debug\maior_menor.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\1_maior_menor\maior_menor\obj\Debug\maior_menor.csproj.CoreCompileInputs.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\1_maior_menor\maior_menor\obj\Debug\maior_menor.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\1_maior_menor\maior_menor\obj\Debug\maior_menor.pdb

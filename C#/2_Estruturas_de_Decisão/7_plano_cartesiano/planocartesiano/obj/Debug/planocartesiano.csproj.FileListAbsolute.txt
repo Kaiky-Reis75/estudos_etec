@@ -1,0 +1,15 @@
+C:\Users\alang\source\repos\planocartesiano\planocartesiano\bin\Debug\planocartesiano.exe.config
+C:\Users\alang\source\repos\planocartesiano\planocartesiano\bin\Debug\planocartesiano.exe
+C:\Users\alang\source\repos\planocartesiano\planocartesiano\bin\Debug\planocartesiano.pdb
+C:\Users\alang\source\repos\planocartesiano\planocartesiano\obj\Debug\planocartesiano.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\planocartesiano\planocartesiano\obj\Debug\planocartesiano.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\planocartesiano\planocartesiano\obj\Debug\planocartesiano.exe
+C:\Users\alang\source\repos\planocartesiano\planocartesiano\obj\Debug\planocartesiano.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\7_plano_cartesiano\planocartesiano\bin\Debug\planocartesiano.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\7_plano_cartesiano\planocartesiano\bin\Debug\planocartesiano.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\7_plano_cartesiano\planocartesiano\bin\Debug\planocartesiano.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\7_plano_cartesiano\planocartesiano\obj\Debug\planocartesiano.csproj.AssemblyReference.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\7_plano_cartesiano\planocartesiano\obj\Debug\planocartesiano.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\7_plano_cartesiano\planocartesiano\obj\Debug\planocartesiano.csproj.CoreCompileInputs.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\7_plano_cartesiano\planocartesiano\obj\Debug\planocartesiano.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\7_plano_cartesiano\planocartesiano\obj\Debug\planocartesiano.pdb

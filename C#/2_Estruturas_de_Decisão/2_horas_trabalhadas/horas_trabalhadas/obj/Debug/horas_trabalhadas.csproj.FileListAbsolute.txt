@@ -1,0 +1,7 @@
+C:\Users\alang\source\repos\horas_trabalhadas\horas_trabalhadas\bin\Debug\horas_trabalhadas.exe.config
+C:\Users\alang\source\repos\horas_trabalhadas\horas_trabalhadas\bin\Debug\horas_trabalhadas.exe
+C:\Users\alang\source\repos\horas_trabalhadas\horas_trabalhadas\bin\Debug\horas_trabalhadas.pdb
+C:\Users\alang\source\repos\horas_trabalhadas\horas_trabalhadas\obj\Debug\horas_trabalhadas.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\horas_trabalhadas\horas_trabalhadas\obj\Debug\horas_trabalhadas.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\horas_trabalhadas\horas_trabalhadas\obj\Debug\horas_trabalhadas.exe
+C:\Users\alang\source\repos\horas_trabalhadas\horas_trabalhadas\obj\Debug\horas_trabalhadas.pdb

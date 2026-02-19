@@ -1,0 +1,15 @@
+C:\Users\alang\source\repos\triangulosreais\triangulosreais\bin\Debug\triangulosreais.exe.config
+C:\Users\alang\source\repos\triangulosreais\triangulosreais\bin\Debug\triangulosreais.exe
+C:\Users\alang\source\repos\triangulosreais\triangulosreais\bin\Debug\triangulosreais.pdb
+C:\Users\alang\source\repos\triangulosreais\triangulosreais\obj\Debug\triangulosreais.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\triangulosreais\triangulosreais\obj\Debug\triangulosreais.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\triangulosreais\triangulosreais\obj\Debug\triangulosreais.exe
+C:\Users\alang\source\repos\triangulosreais\triangulosreais\obj\Debug\triangulosreais.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\4_triangulos_reais\triangulosreais\bin\Debug\triangulosreais.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\4_triangulos_reais\triangulosreais\bin\Debug\triangulosreais.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\4_triangulos_reais\triangulosreais\bin\Debug\triangulosreais.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\4_triangulos_reais\triangulosreais\obj\Debug\triangulosreais.csproj.AssemblyReference.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\4_triangulos_reais\triangulosreais\obj\Debug\triangulosreais.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\4_triangulos_reais\triangulosreais\obj\Debug\triangulosreais.csproj.CoreCompileInputs.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\4_triangulos_reais\triangulosreais\obj\Debug\triangulosreais.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\2_Estruturas_de_Decisão\4_triangulos_reais\triangulosreais\obj\Debug\triangulosreais.pdb
