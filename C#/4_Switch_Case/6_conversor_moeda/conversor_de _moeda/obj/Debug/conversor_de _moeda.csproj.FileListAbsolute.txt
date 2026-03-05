@@ -1,0 +1,7 @@
+C:\Users\alang\source\repos\conversor_de _moeda\conversor_de _moeda\obj\Debug\conversor_de _moeda.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\conversor_de _moeda\conversor_de _moeda\obj\Debug\conversor_de _moeda.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\conversor_de _moeda\conversor_de _moeda\bin\Debug\conversor_de _moeda.exe.config
+C:\Users\alang\source\repos\conversor_de _moeda\conversor_de _moeda\bin\Debug\conversor_de _moeda.exe
+C:\Users\alang\source\repos\conversor_de _moeda\conversor_de _moeda\bin\Debug\conversor_de _moeda.pdb
+C:\Users\alang\source\repos\conversor_de _moeda\conversor_de _moeda\obj\Debug\conversor_de _moeda.exe
+C:\Users\alang\source\repos\conversor_de _moeda\conversor_de _moeda\obj\Debug\conversor_de _moeda.pdb

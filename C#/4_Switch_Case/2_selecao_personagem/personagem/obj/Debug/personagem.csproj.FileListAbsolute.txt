@@ -1,0 +1,7 @@
+C:\Users\alang\source\repos\personagem\personagem\obj\Debug\personagem.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\personagem\personagem\obj\Debug\personagem.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\personagem\personagem\bin\Debug\personagem.exe.config
+C:\Users\alang\source\repos\personagem\personagem\bin\Debug\personagem.exe
+C:\Users\alang\source\repos\personagem\personagem\bin\Debug\personagem.pdb
+C:\Users\alang\source\repos\personagem\personagem\obj\Debug\personagem.exe
+C:\Users\alang\source\repos\personagem\personagem\obj\Debug\personagem.pdb

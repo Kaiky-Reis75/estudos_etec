@@ -1,0 +1,15 @@
+C:\Users\Lab4\source\repos\calculo_preco_desconto\calculo_preco_desconto\bin\Debug\calculo_preco_desconto.exe.config
+C:\Users\Lab4\source\repos\calculo_preco_desconto\calculo_preco_desconto\bin\Debug\calculo_preco_desconto.exe
+C:\Users\Lab4\source\repos\calculo_preco_desconto\calculo_preco_desconto\bin\Debug\calculo_preco_desconto.pdb
+C:\Users\Lab4\source\repos\calculo_preco_desconto\calculo_preco_desconto\obj\Debug\calculo_preco_desconto.csprojAssemblyReference.cache
+C:\Users\Lab4\source\repos\calculo_preco_desconto\calculo_preco_desconto\obj\Debug\calculo_preco_desconto.csproj.CoreCompileInputs.cache
+C:\Users\Lab4\source\repos\calculo_preco_desconto\calculo_preco_desconto\obj\Debug\calculo_preco_desconto.exe
+C:\Users\Lab4\source\repos\calculo_preco_desconto\calculo_preco_desconto\obj\Debug\calculo_preco_desconto.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calculo_preco_desconto\calculo_preco_desconto\obj\Debug\calculo_preco_desconto.csproj.AssemblyReference.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calculo_preco_desconto\calculo_preco_desconto\obj\Debug\calculo_preco_desconto.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calculo_preco_desconto\calculo_preco_desconto\obj\Debug\calculo_preco_desconto.csproj.CoreCompileInputs.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calculo_preco_desconto\calculo_preco_desconto\obj\Debug\calculo_preco_desconto.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calculo_preco_desconto\calculo_preco_desconto\obj\Debug\calculo_preco_desconto.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calculo_preco_desconto\calculo_preco_desconto\bin\Debug\calculo_preco_desconto.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calculo_preco_desconto\calculo_preco_desconto\bin\Debug\calculo_preco_desconto.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calculo_preco_desconto\calculo_preco_desconto\bin\Debug\calculo_preco_desconto.pdb

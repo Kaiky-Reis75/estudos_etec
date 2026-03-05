@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alang\\source\\repos\\tipo_de_veiculo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{687862C1-3466-4FA1-BDBF-D19FEC9CDC50}|tipo_de_veiculo\\tipo_de_veiculo.csproj|c:\\users\\alang\\source\\repos\\tipo_de_veiculo\\tipo_de_veiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687862C1-3466-4FA1-BDBF-D19FEC9CDC50}|tipo_de_veiculo\\tipo_de_veiculo.csproj|solutionrelative:tipo_de_veiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alang\\source\\repos\\tipo_de_veiculo\\tipo_de_veiculo\\Program.cs",
+              "RelativeDocumentMoniker": "tipo_de_veiculo\\Program.cs",
+              "ToolTip": "C:\\Users\\alang\\source\\repos\\tipo_de_veiculo\\tipo_de_veiculo\\Program.cs",
+              "RelativeToolTip": "tipo_de_veiculo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:38:41.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

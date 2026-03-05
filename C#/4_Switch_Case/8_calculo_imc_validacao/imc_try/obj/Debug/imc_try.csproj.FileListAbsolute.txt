@@ -1,0 +1,7 @@
+C:\Users\alang\source\repos\imc_try\imc_try\obj\Debug\imc_try.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\imc_try\imc_try\obj\Debug\imc_try.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\imc_try\imc_try\bin\Debug\imc_try.exe.config
+C:\Users\alang\source\repos\imc_try\imc_try\bin\Debug\imc_try.exe
+C:\Users\alang\source\repos\imc_try\imc_try\bin\Debug\imc_try.pdb
+C:\Users\alang\source\repos\imc_try\imc_try\obj\Debug\imc_try.exe
+C:\Users\alang\source\repos\imc_try\imc_try\obj\Debug\imc_try.pdb

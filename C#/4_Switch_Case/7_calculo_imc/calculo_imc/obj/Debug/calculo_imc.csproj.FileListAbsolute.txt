@@ -1,0 +1,2 @@
+C:\Users\alang\source\repos\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\alang\source\repos\calc_erro\calc_erro\obj\Debug\calc_erro.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\calc_erro\calc_erro\obj\Debug\calc_erro.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\calc_erro\calc_erro\bin\Debug\calc_erro.exe.config
+C:\Users\alang\source\repos\calc_erro\calc_erro\bin\Debug\calc_erro.exe
+C:\Users\alang\source\repos\calc_erro\calc_erro\bin\Debug\calc_erro.pdb
+C:\Users\alang\source\repos\calc_erro\calc_erro\obj\Debug\calc_erro.exe
+C:\Users\alang\source\repos\calc_erro\calc_erro\obj\Debug\calc_erro.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calc_erro\calc_erro\bin\Debug\calc_erro.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calc_erro\calc_erro\bin\Debug\calc_erro.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calc_erro\calc_erro\bin\Debug\calc_erro.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calc_erro\calc_erro\obj\Debug\calc_erro.csproj.AssemblyReference.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calc_erro\calc_erro\obj\Debug\calc_erro.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calc_erro\calc_erro\obj\Debug\calc_erro.csproj.CoreCompileInputs.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calc_erro\calc_erro\obj\Debug\calc_erro.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\4_Switch_Case\calc_erro\calc_erro\obj\Debug\calc_erro.pdb

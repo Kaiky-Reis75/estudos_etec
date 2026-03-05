@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS - ETEC\\2\u00BA Semestre\\DESENVOLVIMENTO DE SISTEMAS I\\\u2022 ATIVIDADES\\Atividade_07_03_25\\selecao_operacao_matematica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEB83F7-1B1E-4A61-92B7-B0DBB0A9F2A1}|selecao_operacao_matematica\\selecao_operacao_matematica.csproj|e:\\ds - etec\\2\u00BA semestre\\desenvolvimento de sistemas i\\\u2022 atividades\\atividade_07_03_25\\selecao_operacao_matematica\\selecao_operacao_matematica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEB83F7-1B1E-4A61-92B7-B0DBB0A9F2A1}|selecao_operacao_matematica\\selecao_operacao_matematica.csproj|solutionrelative:selecao_operacao_matematica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DS - ETEC\\2\u00BA Semestre\\DESENVOLVIMENTO DE SISTEMAS I\\\u2022 ATIVIDADES\\Atividade_07_03_25\\selecao_operacao_matematica\\selecao_operacao_matematica\\Program.cs",
+              "RelativeDocumentMoniker": "selecao_operacao_matematica\\Program.cs",
+              "ToolTip": "E:\\DS - ETEC\\2\u00BA Semestre\\DESENVOLVIMENTO DE SISTEMAS I\\\u2022 ATIVIDADES\\Atividade_07_03_25\\selecao_operacao_matematica\\selecao_operacao_matematica\\Program.cs",
+              "RelativeToolTip": "selecao_operacao_matematica\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:26:40.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

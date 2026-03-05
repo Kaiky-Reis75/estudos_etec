@@ -1,0 +1,7 @@
+C:\Users\alang\source\repos\divisao_tratamento_erro\divisao_tratamento_erro\bin\Debug\divisao_tratamento_erro.exe.config
+C:\Users\alang\source\repos\divisao_tratamento_erro\divisao_tratamento_erro\bin\Debug\divisao_tratamento_erro.exe
+C:\Users\alang\source\repos\divisao_tratamento_erro\divisao_tratamento_erro\bin\Debug\divisao_tratamento_erro.pdb
+C:\Users\alang\source\repos\divisao_tratamento_erro\divisao_tratamento_erro\obj\Debug\divisao_tratamento_erro.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\divisao_tratamento_erro\divisao_tratamento_erro\obj\Debug\divisao_tratamento_erro.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\divisao_tratamento_erro\divisao_tratamento_erro\obj\Debug\divisao_tratamento_erro.exe
+C:\Users\alang\source\repos\divisao_tratamento_erro\divisao_tratamento_erro\obj\Debug\divisao_tratamento_erro.pdb

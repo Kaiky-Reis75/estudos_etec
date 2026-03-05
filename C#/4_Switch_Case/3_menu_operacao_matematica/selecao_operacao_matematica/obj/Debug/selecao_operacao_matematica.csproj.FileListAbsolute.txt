@@ -1,0 +1,7 @@
+C:\Users\alang\source\repos\selecao_operacao_matematica\selecao_operacao_matematica\bin\Debug\selecao_operacao_matematica.exe.config
+C:\Users\alang\source\repos\selecao_operacao_matematica\selecao_operacao_matematica\bin\Debug\selecao_operacao_matematica.exe
+C:\Users\alang\source\repos\selecao_operacao_matematica\selecao_operacao_matematica\bin\Debug\selecao_operacao_matematica.pdb
+C:\Users\alang\source\repos\selecao_operacao_matematica\selecao_operacao_matematica\obj\Debug\selecao_operacao_matematica.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\selecao_operacao_matematica\selecao_operacao_matematica\obj\Debug\selecao_operacao_matematica.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\selecao_operacao_matematica\selecao_operacao_matematica\obj\Debug\selecao_operacao_matematica.exe
+C:\Users\alang\source\repos\selecao_operacao_matematica\selecao_operacao_matematica\obj\Debug\selecao_operacao_matematica.pdb

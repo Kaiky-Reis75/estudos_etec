@@ -1,0 +1,7 @@
+C:\Users\alang\source\repos\tipo_de_veiculo\tipo_de_veiculo\bin\Debug\tipo_de_veiculo.exe.config
+C:\Users\alang\source\repos\tipo_de_veiculo\tipo_de_veiculo\bin\Debug\tipo_de_veiculo.exe
+C:\Users\alang\source\repos\tipo_de_veiculo\tipo_de_veiculo\bin\Debug\tipo_de_veiculo.pdb
+C:\Users\alang\source\repos\tipo_de_veiculo\tipo_de_veiculo\obj\Debug\tipo_de_veiculo.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\tipo_de_veiculo\tipo_de_veiculo\obj\Debug\tipo_de_veiculo.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\tipo_de_veiculo\tipo_de_veiculo\obj\Debug\tipo_de_veiculo.exe
+C:\Users\alang\source\repos\tipo_de_veiculo\tipo_de_veiculo\obj\Debug\tipo_de_veiculo.pdb

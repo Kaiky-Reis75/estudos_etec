@@ -1,0 +1,7 @@
+C:\Users\alang\source\repos\tratamento_de_erro\tratamento_de_erro\bin\Debug\tratamento_de_erro.exe.config
+C:\Users\alang\source\repos\tratamento_de_erro\tratamento_de_erro\bin\Debug\tratamento_de_erro.exe
+C:\Users\alang\source\repos\tratamento_de_erro\tratamento_de_erro\bin\Debug\tratamento_de_erro.pdb
+C:\Users\alang\source\repos\tratamento_de_erro\tratamento_de_erro\obj\Debug\tratamento_de_erro.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\tratamento_de_erro\tratamento_de_erro\obj\Debug\tratamento_de_erro.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\tratamento_de_erro\tratamento_de_erro\obj\Debug\tratamento_de_erro.exe
+C:\Users\alang\source\repos\tratamento_de_erro\tratamento_de_erro\obj\Debug\tratamento_de_erro.pdb
