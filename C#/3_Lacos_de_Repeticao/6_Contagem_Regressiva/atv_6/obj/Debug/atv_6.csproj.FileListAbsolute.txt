@@ -1,0 +1,7 @@
+C:\Users\alang\source\repos\atv_6\atv_6\obj\Debug\atv_6.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\atv_6\atv_6\obj\Debug\atv_6.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\atv_6\atv_6\bin\Debug\atv_6.exe.config
+C:\Users\alang\source\repos\atv_6\atv_6\bin\Debug\atv_6.exe
+C:\Users\alang\source\repos\atv_6\atv_6\bin\Debug\atv_6.pdb
+C:\Users\alang\source\repos\atv_6\atv_6\obj\Debug\atv_6.exe
+C:\Users\alang\source\repos\atv_6\atv_6\obj\Debug\atv_6.pdb

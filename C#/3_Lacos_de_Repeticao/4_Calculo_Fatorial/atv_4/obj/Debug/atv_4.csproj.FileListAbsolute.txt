@@ -1,0 +1,7 @@
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_4\atv_4\obj\Debug\atv_4.csproj.AssemblyReference.cache
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_4\atv_4\obj\Debug\atv_4.csproj.CoreCompileInputs.cache
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_4\atv_4\bin\Debug\atv_4.exe.config
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_4\atv_4\bin\Debug\atv_4.exe
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_4\atv_4\bin\Debug\atv_4.pdb
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_4\atv_4\obj\Debug\atv_4.exe
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_4\atv_4\obj\Debug\atv_4.pdb

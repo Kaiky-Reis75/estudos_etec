@@ -1,0 +1,15 @@
+C:\Users\alang\source\repos\atv_12\atv_12\bin\Debug\atv_12.exe.config
+C:\Users\alang\source\repos\atv_12\atv_12\bin\Debug\atv_12.exe
+C:\Users\alang\source\repos\atv_12\atv_12\bin\Debug\atv_12.pdb
+C:\Users\alang\source\repos\atv_12\atv_12\obj\Debug\atv_12.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\atv_12\atv_12\obj\Debug\atv_12.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\atv_12\atv_12\obj\Debug\atv_12.exe
+C:\Users\alang\source\repos\atv_12\atv_12\obj\Debug\atv_12.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\12_Maior_Numero\atv_12\bin\Debug\atv_12.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\12_Maior_Numero\atv_12\bin\Debug\atv_12.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\12_Maior_Numero\atv_12\bin\Debug\atv_12.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\12_Maior_Numero\atv_12\obj\Debug\atv_12.csproj.AssemblyReference.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\12_Maior_Numero\atv_12\obj\Debug\atv_12.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\12_Maior_Numero\atv_12\obj\Debug\atv_12.csproj.CoreCompileInputs.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\12_Maior_Numero\atv_12\obj\Debug\atv_12.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\12_Maior_Numero\atv_12\obj\Debug\atv_12.pdb

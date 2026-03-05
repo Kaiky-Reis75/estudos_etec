@@ -1,0 +1,15 @@
+C:\Users\alang\source\repos\atv_14\atv_14\bin\Debug\atv_14.exe.config
+C:\Users\alang\source\repos\atv_14\atv_14\bin\Debug\atv_14.exe
+C:\Users\alang\source\repos\atv_14\atv_14\bin\Debug\atv_14.pdb
+C:\Users\alang\source\repos\atv_14\atv_14\obj\Debug\atv_14.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\atv_14\atv_14\obj\Debug\atv_14.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\atv_14\atv_14\obj\Debug\atv_14.exe
+C:\Users\alang\source\repos\atv_14\atv_14\obj\Debug\atv_14.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\14_Calculo_Media_While\atv_14\bin\Debug\atv_14.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\14_Calculo_Media_While\atv_14\bin\Debug\atv_14.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\14_Calculo_Media_While\atv_14\bin\Debug\atv_14.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\14_Calculo_Media_While\atv_14\obj\Debug\atv_14.csproj.AssemblyReference.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\14_Calculo_Media_While\atv_14\obj\Debug\atv_14.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\14_Calculo_Media_While\atv_14\obj\Debug\atv_14.csproj.CoreCompileInputs.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\14_Calculo_Media_While\atv_14\obj\Debug\atv_14.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\14_Calculo_Media_While\atv_14\obj\Debug\atv_14.pdb

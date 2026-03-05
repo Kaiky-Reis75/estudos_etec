@@ -1,0 +1,14 @@
+C:\Users\Lab4\source\repos\atv_1\atv_1\bin\Debug\atv_1.exe.config
+C:\Users\Lab4\source\repos\atv_1\atv_1\bin\Debug\atv_1.exe
+C:\Users\Lab4\source\repos\atv_1\atv_1\bin\Debug\atv_1.pdb
+C:\Users\Lab4\source\repos\atv_1\atv_1\obj\Debug\atv_1.csprojAssemblyReference.cache
+C:\Users\Lab4\source\repos\atv_1\atv_1\obj\Debug\atv_1.csproj.CoreCompileInputs.cache
+C:\Users\Lab4\source\repos\atv_1\atv_1\obj\Debug\atv_1.exe
+C:\Users\Lab4\source\repos\atv_1\atv_1\obj\Debug\atv_1.pdb
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_1\atv_1\bin\Debug\atv_1.exe.config
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_1\atv_1\bin\Debug\atv_1.exe
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_1\atv_1\bin\Debug\atv_1.pdb
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_1\atv_1\obj\Debug\atv_1.csprojAssemblyReference.cache
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_1\atv_1\obj\Debug\atv_1.csproj.CoreCompileInputs.cache
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_1\atv_1\obj\Debug\atv_1.exe
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_1\atv_1\obj\Debug\atv_1.pdb

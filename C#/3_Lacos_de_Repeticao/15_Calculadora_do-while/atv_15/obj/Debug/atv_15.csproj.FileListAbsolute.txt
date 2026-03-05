@@ -1,0 +1,7 @@
+C:\Users\alang\source\repos\atv_15\atv_15\bin\Debug\atv_15.exe.config
+C:\Users\alang\source\repos\atv_15\atv_15\bin\Debug\atv_15.exe
+C:\Users\alang\source\repos\atv_15\atv_15\bin\Debug\atv_15.pdb
+C:\Users\alang\source\repos\atv_15\atv_15\obj\Debug\atv_15.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\atv_15\atv_15\obj\Debug\atv_15.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\atv_15\atv_15\obj\Debug\atv_15.exe
+C:\Users\alang\source\repos\atv_15\atv_15\obj\Debug\atv_15.pdb

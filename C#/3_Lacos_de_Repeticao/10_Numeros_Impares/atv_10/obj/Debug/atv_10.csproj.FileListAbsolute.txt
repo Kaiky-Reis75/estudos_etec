@@ -1,0 +1,14 @@
+C:\Users\alang\source\repos\atv_10\atv_10\obj\Debug\atv_10.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\atv_10\atv_10\obj\Debug\atv_10.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\atv_10\atv_10\bin\Debug\atv_10.exe.config
+C:\Users\alang\source\repos\atv_10\atv_10\bin\Debug\atv_10.exe
+C:\Users\alang\source\repos\atv_10\atv_10\bin\Debug\atv_10.pdb
+C:\Users\alang\source\repos\atv_10\atv_10\obj\Debug\atv_10.exe
+C:\Users\alang\source\repos\atv_10\atv_10\obj\Debug\atv_10.pdb
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_10\atv_10\bin\Debug\atv_10.exe.config
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_10\atv_10\bin\Debug\atv_10.exe
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_10\atv_10\bin\Debug\atv_10.pdb
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_10\atv_10\obj\Debug\atv_10.csproj.AssemblyReference.cache
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_10\atv_10\obj\Debug\atv_10.csproj.CoreCompileInputs.cache
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_10\atv_10\obj\Debug\atv_10.exe
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_20_03_25\atv_10\atv_10\obj\Debug\atv_10.pdb

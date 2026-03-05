@@ -1,0 +1,15 @@
+C:\Users\alang\source\repos\atv_7\atv_7\bin\Debug\atv_7.exe.config
+C:\Users\alang\source\repos\atv_7\atv_7\bin\Debug\atv_7.exe
+C:\Users\alang\source\repos\atv_7\atv_7\bin\Debug\atv_7.pdb
+C:\Users\alang\source\repos\atv_7\atv_7\obj\Debug\atv_7.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\atv_7\atv_7\obj\Debug\atv_7.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\atv_7\atv_7\obj\Debug\atv_7.exe
+C:\Users\alang\source\repos\atv_7\atv_7\obj\Debug\atv_7.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\7_Soma_N_Numeros\atv_7\bin\Debug\atv_7.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\7_Soma_N_Numeros\atv_7\bin\Debug\atv_7.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\7_Soma_N_Numeros\atv_7\bin\Debug\atv_7.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\7_Soma_N_Numeros\atv_7\obj\Debug\atv_7.csproj.AssemblyReference.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\7_Soma_N_Numeros\atv_7\obj\Debug\atv_7.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\7_Soma_N_Numeros\atv_7\obj\Debug\atv_7.csproj.CoreCompileInputs.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\7_Soma_N_Numeros\atv_7\obj\Debug\atv_7.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\3_Lacos_de_Repeticao\7_Soma_N_Numeros\atv_7\obj\Debug\atv_7.pdb
