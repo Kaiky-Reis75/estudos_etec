@@ -1,0 +1,7 @@
+C:\Users\Lab4\source\repos\atv_3\atv_3\bin\Debug\atv_3.exe.config
+C:\Users\Lab4\source\repos\atv_3\atv_3\bin\Debug\atv_3.exe
+C:\Users\Lab4\source\repos\atv_3\atv_3\bin\Debug\atv_3.pdb
+C:\Users\Lab4\source\repos\atv_3\atv_3\obj\Debug\atv_3.csprojAssemblyReference.cache
+C:\Users\Lab4\source\repos\atv_3\atv_3\obj\Debug\atv_3.csproj.CoreCompileInputs.cache
+C:\Users\Lab4\source\repos\atv_3\atv_3\obj\Debug\atv_3.exe
+C:\Users\Lab4\source\repos\atv_3\atv_3\obj\Debug\atv_3.pdb

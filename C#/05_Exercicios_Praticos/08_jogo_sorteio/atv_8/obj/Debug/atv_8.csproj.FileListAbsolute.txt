@@ -1,0 +1,15 @@
+C:\Users\Lab4\source\repos\atv_8\atv_8\obj\Debug\atv_8.csproj.CoreCompileInputs.cache
+C:\Users\Lab4\source\repos\atv_8\atv_8\obj\Debug\atv_8.csprojAssemblyReference.cache
+C:\Users\Lab4\source\repos\atv_8\atv_8\bin\Debug\atv_8.exe.config
+C:\Users\Lab4\source\repos\atv_8\atv_8\bin\Debug\atv_8.exe
+C:\Users\Lab4\source\repos\atv_8\atv_8\bin\Debug\atv_8.pdb
+C:\Users\Lab4\source\repos\atv_8\atv_8\obj\Debug\atv_8.exe
+C:\Users\Lab4\source\repos\atv_8\atv_8\obj\Debug\atv_8.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\08_menu_sistema_simples\atv_8\bin\Debug\atv_8.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\08_menu_sistema_simples\atv_8\bin\Debug\atv_8.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\08_menu_sistema_simples\atv_8\bin\Debug\atv_8.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\08_menu_sistema_simples\atv_8\obj\Debug\atv_8.csproj.AssemblyReference.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\08_menu_sistema_simples\atv_8\obj\Debug\atv_8.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\08_menu_sistema_simples\atv_8\obj\Debug\atv_8.csproj.CoreCompileInputs.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\08_menu_sistema_simples\atv_8\obj\Debug\atv_8.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\08_menu_sistema_simples\atv_8\obj\Debug\atv_8.pdb

@@ -1,0 +1,15 @@
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_27.03.25\atv_2\atv_2\bin\Debug\atv_2.exe.config
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_27.03.25\atv_2\atv_2\bin\Debug\atv_2.exe
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_27.03.25\atv_2\atv_2\bin\Debug\atv_2.pdb
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_27.03.25\atv_2\atv_2\obj\Debug\atv_2.csprojAssemblyReference.cache
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_27.03.25\atv_2\atv_2\obj\Debug\atv_2.csproj.CoreCompileInputs.cache
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_27.03.25\atv_2\atv_2\obj\Debug\atv_2.exe
+E:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\Atividades_27.03.25\atv_2\atv_2\obj\Debug\atv_2.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\02_calculo_media_aluno\atv_2\bin\Debug\atv_2.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\02_calculo_media_aluno\atv_2\bin\Debug\atv_2.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\02_calculo_media_aluno\atv_2\bin\Debug\atv_2.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\02_calculo_media_aluno\atv_2\obj\Debug\atv_2.csproj.AssemblyReference.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\02_calculo_media_aluno\atv_2\obj\Debug\atv_2.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\02_calculo_media_aluno\atv_2\obj\Debug\atv_2.csproj.CoreCompileInputs.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\02_calculo_media_aluno\atv_2\obj\Debug\atv_2.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\02_calculo_media_aluno\atv_2\obj\Debug\atv_2.pdb

@@ -1,0 +1,15 @@
+C:\Users\Lab4\source\repos\atv_6\atv_6\bin\Debug\atv_6.exe.config
+C:\Users\Lab4\source\repos\atv_6\atv_6\bin\Debug\atv_6.exe
+C:\Users\Lab4\source\repos\atv_6\atv_6\bin\Debug\atv_6.pdb
+C:\Users\Lab4\source\repos\atv_6\atv_6\obj\Debug\atv_6.csprojAssemblyReference.cache
+C:\Users\Lab4\source\repos\atv_6\atv_6\obj\Debug\atv_6.csproj.CoreCompileInputs.cache
+C:\Users\Lab4\source\repos\atv_6\atv_6\obj\Debug\atv_6.exe
+C:\Users\Lab4\source\repos\atv_6\atv_6\obj\Debug\atv_6.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\06_calculo_imc\atv_6\bin\Debug\atv_6.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\06_calculo_imc\atv_6\bin\Debug\atv_6.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\06_calculo_imc\atv_6\bin\Debug\atv_6.pdb
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\06_calculo_imc\atv_6\obj\Debug\atv_6.csproj.AssemblyReference.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\06_calculo_imc\atv_6\obj\Debug\atv_6.exe.config
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\06_calculo_imc\atv_6\obj\Debug\atv_6.csproj.CoreCompileInputs.cache
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\06_calculo_imc\atv_6\obj\Debug\atv_6.exe
+F:\DS - ETEC\2º Semestre\DESENVOLVIMENTO DE SISTEMAS I\• ATIVIDADES\estudos-etec\C#\05_Exercicios_Praticos\06_calculo_imc\atv_6\obj\Debug\atv_6.pdb
